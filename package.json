@@ -11,6 +11,7 @@
 	"keywords": [],
 	"author": "",
 	"license": "ISC",
+	"homepage": "https://Suren73.github.io/initial/",
 	"devDependencies": {
 		"@babel/core": "^7.17.0",
 		"@babel/preset-env": "^7.16.11",
